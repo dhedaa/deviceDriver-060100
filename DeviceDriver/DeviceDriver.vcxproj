@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="application.cpp" />
     <ClCompile Include="device_driver.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
